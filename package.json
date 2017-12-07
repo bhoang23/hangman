@@ -1,0 +1,24 @@
+{
+    "name": "hangman",
+    "version": "1.0.0",
+    "description": "created a hangman game using node",
+    "main": "main.js",
+    "dependencies": {
+        "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+          },
+          "repository": {
+            "type": "git",
+            "url": "git+https://github.com/bhoang23/hangman.git"
+          },
+          "author": "Brandon Hoang",
+          "license": "ISC",
+          "bugs": {
+            "url": "https://github.com/bhoang23/hangman/issues"
+          },
+          "homepage": "https://github.com/bhoang23/hangman#readme",
+          "dependencies": {
+            "inquirer": "^4.0.1"
+          }
+        }
+       
